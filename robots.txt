@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
+
 Sitemap: https://rangewolf.com/sitemap.xml

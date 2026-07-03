@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://rangewolf.com/</loc><changefreq>daily</changefreq></url>
-  <url><loc>https://rangewolf.com/best-best-kitchen-ranges-2026.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://rangewolf.com/buyers-guide.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://rangewolf.com/about.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://rangewolf.com/contact.html</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://rangewolf.com/</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
